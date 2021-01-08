@@ -11,4 +11,4 @@ In 1932, more than thirty years prior to Ulam's discovery, the herpetologist Lau
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ulam_spiral_howto_primes_only.svg)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iFuR97YcSLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iFuR97YcSLM/0.jpg)](https://www.youtube.com/watch?v=iFuR97YcSLM)
